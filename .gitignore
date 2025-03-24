@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/bin-int
+FMODAudioEngine.vcxproj
+FMOD-Audio-Engine.vcxproj.filters
+FMOD-Audio-Engine.vcxproj
+FMOD-Audio-Engine.sln
